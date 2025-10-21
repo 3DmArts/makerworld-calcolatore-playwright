@@ -1,0 +1,5 @@
+{
+    "costo_macchina_per_ora": 0.60,
+    "costo_materiale_per_g": 0.015,
+    "margine_percentuale": 35
+}
